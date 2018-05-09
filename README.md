@@ -7,9 +7,7 @@
 
 ## Output
 ---
-```bash
-"C:\Program Files\Java\jdk1.8.0_152\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 
-
+```cmd
 [A Spades, 10 Spades, Q Spades, J Spades, K Spades]
 Royal Flush!
 -----------------------------------
@@ -183,6 +181,6 @@ Good Bye.
 Process finished with exit code 0
 
 ```
-
 ## Note
+---
 Feel free to use my code for reference if you have questions just ping me. 
