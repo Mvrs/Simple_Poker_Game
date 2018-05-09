@@ -6,7 +6,6 @@
 💻 My Final Project for my CSC 220 (Data Structures) course by San Francisco State University
 
 ## Output
----
 ```cmd
 [A Spades, 10 Spades, Q Spades, J Spades, K Spades]
 Royal Flush!
@@ -182,5 +181,4 @@ Process finished with exit code 0
 
 ```
 ## Note
----
-Feel free to use my code for reference if you have questions just ping me. 
+Feel free to use my code for reference if you have questions just [ping me](https://www.linkedin.com/in/marvj/). 
