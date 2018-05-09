@@ -1,5 +1,5 @@
 # Simple_Poker_Game 
----
+
 ![Travis](https://img.shields.io/badge/java-passing-blue.svg) 
 ![TeamCity CodeBetter](https://img.shields.io/teamcity/codebetter/bt428.svg)
 
