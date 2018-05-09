@@ -1,0 +1,157 @@
+*******    Create 2 decks of cards      *********
+
+
+
+************************************************
+
+Loop # 0
+
+Before shuffle:104 cards
+
+	[A Clubs, 2 Clubs, 3 Clubs, 4 Clubs, 5 Clubs, 6 Clubs, 7 Clubs, 8 Clubs, 9 Clubs, 10 Clubs, J Clubs, Q Clubs, K Clubs, A Diamonds, 2 Diamonds, 3 Diamonds, 4 Diamonds, 5 Diamonds, 6 Diamonds, 7 Diamonds, 8 Diamonds, 9 Diamonds, 10 Diamonds, J Diamonds, Q Diamonds, K Diamonds, A Hearts, 2 Hearts, 3 Hearts, 4 Hearts, 5 Hearts, 6 Hearts, 7 Hearts, 8 Hearts, 9 Hearts, 10 Hearts, J Hearts, Q Hearts, K Hearts, A Spades, 2 Spades, 3 Spades, 4 Spades, 5 Spades, 6 Spades, 7 Spades, 8 Spades, 9 Spades, 10 Spades, J Spades, Q Spades, K Spades, A Clubs, 2 Clubs, 3 Clubs, 4 Clubs, 5 Clubs, 6 Clubs, 7 Clubs, 8 Clubs, 9 Clubs, 10 Clubs, J Clubs, Q Clubs, K Clubs, A Diamonds, 2 Diamonds, 3 Diamonds, 4 Diamonds, 5 Diamonds, 6 Diamonds, 7 Diamonds, 8 Diamonds, 9 Diamonds, 10 Diamonds, J Diamonds, Q Diamonds, K Diamonds, A Hearts, 2 Hearts, 3 Hearts, 4 Hearts, 5 Hearts, 6 Hearts, 7 Hearts, 8 Hearts, 9 Hearts, 10 Hearts, J Hearts, Q Hearts, K Hearts, A Spades, 2 Spades, 3 Spades, 4 Spades, 5 Spades, 6 Spades, 7 Spades, 8 Spades, 9 Spades, 10 Spades, J Spades, Q Spades, K Spades]
+
+==============================================
+
+After shuffle:104 cards
+
+	[7 Diamonds, A Hearts, 2 Spades, A Spades, 9 Spades, 9 Diamonds, K Spades, J Spades, 2 Diamonds, 8 Hearts, 7 Hearts, 5 Hearts, 8 Clubs, 10 Clubs, 2 Clubs, 4 Diamonds, 5 Clubs, 8 Diamonds, Q Spades, 10 Spades, 10 Diamonds, 6 Diamonds, A Clubs, 3 Diamonds, 5 Diamonds, 8 Hearts, Q Hearts, 3 Clubs, 4 Diamonds, J Hearts, 8 Clubs, 3 Spades, 5 Hearts, 7 Spades, 4 Spades, 3 Clubs, Q Diamonds, 9 Spades, Q Spades, 2 Spades, 8 Spades, 9 Hearts, 2 Hearts, K Diamonds, 2 Clubs, K Clubs, A Diamonds, K Hearts, K Diamonds, 7 Diamonds, 10 Diamonds, K Spades, K Hearts, 3 Hearts, 7 Hearts, 2 Hearts, 4 Hearts, 10 Spades, 5 Diamonds, 10 Clubs, 6 Hearts, 5 Spades, 3 Diamonds, 6 Diamonds, 4 Clubs, 2 Diamonds, 4 Clubs, 6 Clubs, Q Hearts, J Clubs, 6 Hearts, Q Clubs, J Diamonds, J Spades, 8 Diamonds, 4 Hearts, A Diamonds, 9 Clubs, 9 Clubs, J Hearts, J Clubs, Q Clubs, 7 Clubs, 7 Clubs, 5 Spades, 6 Clubs, 6 Spades, J Diamonds, 8 Spades, 5 Clubs, 9 Diamonds, 10 Hearts, 6 Spades, 7 Spades, A Hearts, 4 Spades, 3 Spades, Q Diamonds, 10 Hearts, A Clubs, A Spades, 9 Hearts, K Clubs, 3 Hearts]
+
+
+Hand 0:30 cards
+
+	[J Hearts, 4 Diamonds, 3 Clubs, Q Hearts, 8 Hearts, 5 Diamonds, 3 Diamonds, A Clubs, 6 Diamonds, 10 Diamonds, 10 Spades, Q Spades, 8 Diamonds, 5 Clubs, 4 Diamonds, 2 Clubs, 10 Clubs, 8 Clubs, 5 Hearts, 7 Hearts, 8 Hearts, 2 Diamonds, J Spades, K Spades, 9 Diamonds, 9 Spades, A Spades, 2 Spades, A Hearts, 7 Diamonds]
+
+
+Remain:74 cards
+
+	[8 Clubs, 3 Spades, 5 Hearts, 7 Spades, 4 Spades, 3 Clubs, Q Diamonds, 9 Spades, Q Spades, 2 Spades, 8 Spades, 9 Hearts, 2 Hearts, K Diamonds, 2 Clubs, K Clubs, A Diamonds, K Hearts, K Diamonds, 7 Diamonds, 10 Diamonds, K Spades, K Hearts, 3 Hearts, 7 Hearts, 2 Hearts, 4 Hearts, 10 Spades, 5 Diamonds, 10 Clubs, 6 Hearts, 5 Spades, 3 Diamonds, 6 Diamonds, 4 Clubs, 2 Diamonds, 4 Clubs, 6 Clubs, Q Hearts, J Clubs, 6 Hearts, Q Clubs, J Diamonds, J Spades, 8 Diamonds, 4 Hearts, A Diamonds, 9 Clubs, 9 Clubs, J Hearts, J Clubs, Q Clubs, 7 Clubs, 7 Clubs, 5 Spades, 6 Clubs, 6 Spades, J Diamonds, 8 Spades, 5 Clubs, 9 Diamonds, 10 Hearts, 6 Spades, 7 Spades, A Hearts, 4 Spades, 3 Spades, Q Diamonds, 10 Hearts, A Clubs, A Spades, 9 Hearts, K Clubs, 3 Hearts]
+
+==============================================
+
+After shuffle:74 cards
+
+	[4 Clubs, 3 Diamonds, A Hearts, A Diamonds, K Hearts, J Clubs, K Hearts, A Clubs, 6 Hearts, 6 Spades, J Diamonds, Q Hearts, 5 Diamonds, 9 Clubs, 9 Diamonds, 9 Spades, A Spades, 3 Hearts, 7 Spades, Q Clubs, 3 Hearts, 7 Hearts, 10 Hearts, J Spades, 4 Spades, 9 Hearts, 6 Clubs, J Diamonds, 5 Clubs, 4 Spades, 9 Hearts, 3 Clubs, 2 Hearts, 5 Hearts, 7 Clubs, 5 Spades, 6 Diamonds, 3 Spades, 10 Hearts, 2 Hearts, J Hearts, 2 Clubs, 10 Clubs, 4 Clubs, 7 Clubs, 6 Hearts, K Diamonds, Q Clubs, K Spades, 9 Clubs, 6 Clubs, 10 Diamonds, Q Diamonds, Q Spades, 6 Spades, 8 Spades, 3 Spades, 7 Diamonds, A Diamonds, K Clubs, 8 Diamonds, 10 Spades, K Diamonds, 4 Hearts, Q Diamonds, 7 Spades, 8 Spades, 2 Diamonds, 4 Hearts, J Clubs, 2 Spades, K Clubs, 5 Spades, 8 Clubs]
+
+
+Hand 1:30 cards
+
+	[4 Spades, 5 Clubs, J Diamonds, 6 Clubs, 9 Hearts, 4 Spades, J Spades, 10 Hearts, 7 Hearts, 3 Hearts, Q Clubs, 7 Spades, 3 Hearts, A Spades, 9 Spades, 9 Diamonds, 9 Clubs, 5 Diamonds, Q Hearts, J Diamonds, 6 Spades, 6 Hearts, A Clubs, K Hearts, J Clubs, K Hearts, A Diamonds, A Hearts, 3 Diamonds, 4 Clubs]
+
+
+Remain:44 cards
+
+	[9 Hearts, 3 Clubs, 2 Hearts, 5 Hearts, 7 Clubs, 5 Spades, 6 Diamonds, 3 Spades, 10 Hearts, 2 Hearts, J Hearts, 2 Clubs, 10 Clubs, 4 Clubs, 7 Clubs, 6 Hearts, K Diamonds, Q Clubs, K Spades, 9 Clubs, 6 Clubs, 10 Diamonds, Q Diamonds, Q Spades, 6 Spades, 8 Spades, 3 Spades, 7 Diamonds, A Diamonds, K Clubs, 8 Diamonds, 10 Spades, K Diamonds, 4 Hearts, Q Diamonds, 7 Spades, 8 Spades, 2 Diamonds, 4 Hearts, J Clubs, 2 Spades, K Clubs, 5 Spades, 8 Clubs]
+
+==============================================
+
+After shuffle:44 cards
+
+	[5 Hearts, 8 Clubs, K Spades, Q Clubs, 10 Diamonds, 6 Spades, 8 Diamonds, 10 Spades, J Hearts, J Clubs, 3 Clubs, 5 Spades, K Diamonds, 9 Hearts, 2 Hearts, 4 Hearts, K Clubs, 5 Spades, K Diamonds, A Diamonds, 4 Clubs, 7 Clubs, 3 Spades, 7 Spades, 7 Clubs, 8 Spades, 6 Hearts, 3 Spades, 2 Hearts, 2 Spades, 6 Clubs, Q Diamonds, 10 Hearts, 7 Diamonds, Q Diamonds, 2 Diamonds, 10 Clubs, K Clubs, 9 Clubs, 8 Spades, 2 Clubs, Q Spades, 4 Hearts, 6 Diamonds]
+
+
+Hand 2:30 cards
+
+	[2 Spades, 2 Hearts, 3 Spades, 6 Hearts, 8 Spades, 7 Clubs, 7 Spades, 3 Spades, 7 Clubs, 4 Clubs, A Diamonds, K Diamonds, 5 Spades, K Clubs, 4 Hearts, 2 Hearts, 9 Hearts, K Diamonds, 5 Spades, 3 Clubs, J Clubs, J Hearts, 10 Spades, 8 Diamonds, 6 Spades, 10 Diamonds, Q Clubs, K Spades, 8 Clubs, 5 Hearts]
+
+
+Remain:14 cards
+
+	[6 Clubs, Q Diamonds, 10 Hearts, 7 Diamonds, Q Diamonds, 2 Diamonds, 10 Clubs, K Clubs, 9 Clubs, 8 Spades, 2 Clubs, Q Spades, 4 Hearts, 6 Diamonds]
+
+==============================================
+
+After shuffle:14 cards
+
+	[6 Diamonds, 2 Diamonds, 4 Hearts, 2 Clubs, 7 Diamonds, Q Diamonds, 8 Spades, 10 Clubs, Q Diamonds, 9 Clubs, 6 Clubs, 10 Hearts, K Clubs, Q Spades]
+
+
+Hand 3:30 cards
+Catch Block:PlayingCardException:Msg: Not enough cards to deal
+
+	[]
+
+
+Remain:14 cards
+
+	[6 Diamonds, 2 Diamonds, 4 Hearts, 2 Clubs, 7 Diamonds, Q Diamonds, 8 Spades, 10 Clubs, Q Diamonds, 9 Clubs, 6 Clubs, 10 Hearts, K Clubs, Q Spades]
+
+==============================================
+
+
+************************************************
+
+Loop # 1
+
+Before shuffle:104 cards
+
+	[A Clubs, 2 Clubs, 3 Clubs, 4 Clubs, 5 Clubs, 6 Clubs, 7 Clubs, 8 Clubs, 9 Clubs, 10 Clubs, J Clubs, Q Clubs, K Clubs, A Diamonds, 2 Diamonds, 3 Diamonds, 4 Diamonds, 5 Diamonds, 6 Diamonds, 7 Diamonds, 8 Diamonds, 9 Diamonds, 10 Diamonds, J Diamonds, Q Diamonds, K Diamonds, A Hearts, 2 Hearts, 3 Hearts, 4 Hearts, 5 Hearts, 6 Hearts, 7 Hearts, 8 Hearts, 9 Hearts, 10 Hearts, J Hearts, Q Hearts, K Hearts, A Spades, 2 Spades, 3 Spades, 4 Spades, 5 Spades, 6 Spades, 7 Spades, 8 Spades, 9 Spades, 10 Spades, J Spades, Q Spades, K Spades, A Clubs, 2 Clubs, 3 Clubs, 4 Clubs, 5 Clubs, 6 Clubs, 7 Clubs, 8 Clubs, 9 Clubs, 10 Clubs, J Clubs, Q Clubs, K Clubs, A Diamonds, 2 Diamonds, 3 Diamonds, 4 Diamonds, 5 Diamonds, 6 Diamonds, 7 Diamonds, 8 Diamonds, 9 Diamonds, 10 Diamonds, J Diamonds, Q Diamonds, K Diamonds, A Hearts, 2 Hearts, 3 Hearts, 4 Hearts, 5 Hearts, 6 Hearts, 7 Hearts, 8 Hearts, 9 Hearts, 10 Hearts, J Hearts, Q Hearts, K Hearts, A Spades, 2 Spades, 3 Spades, 4 Spades, 5 Spades, 6 Spades, 7 Spades, 8 Spades, 9 Spades, 10 Spades, J Spades, Q Spades, K Spades]
+
+==============================================
+
+After shuffle:104 cards
+
+	[8 Spades, K Clubs, 9 Diamonds, A Diamonds, A Hearts, 4 Diamonds, 8 Hearts, J Diamonds, 9 Spades, 2 Clubs, 2 Clubs, Q Hearts, K Spades, 3 Hearts, 4 Clubs, 10 Diamonds, 10 Clubs, Q Spades, 2 Spades, 8 Diamonds, 2 Diamonds, 8 Hearts, A Spades, 4 Hearts, J Clubs, 3 Diamonds, 5 Diamonds, Q Diamonds, K Hearts, 4 Clubs, 5 Clubs, 4 Diamonds, 2 Hearts, 6 Diamonds, 7 Diamonds, 9 Hearts, 9 Hearts, 10 Spades, 10 Clubs, 3 Clubs, 4 Spades, J Spades, 9 Spades, K Clubs, 3 Clubs, 9 Clubs, 7 Spades, 7 Hearts, 10 Hearts, 6 Spades, 8 Clubs, Q Hearts, 8 Clubs, 3 Spades, A Clubs, A Spades, J Hearts, Q Diamonds, 3 Diamonds, 2 Spades, A Hearts, J Diamonds, Q Clubs, 5 Diamonds, J Hearts, 5 Hearts, 3 Hearts, J Spades, 6 Hearts, Q Clubs, 7 Spades, Q Spades, 5 Clubs, 2 Diamonds, 3 Spades, 2 Hearts, 10 Diamonds, 8 Diamonds, 5 Hearts, A Clubs, 7 Diamonds, 4 Spades, 8 Spades, 5 Spades, 9 Clubs, 10 Hearts, 9 Diamonds, 6 Spades, K Spades, 7 Clubs, 7 Hearts, 10 Spades, J Clubs, K Diamonds, 6 Clubs, 4 Hearts, 6 Diamonds, 6 Clubs, K Hearts, 7 Clubs, 6 Hearts, K Diamonds, A Diamonds, 5 Spades]
+
+
+Hand 0:30 cards
+
+	[4 Clubs, K Hearts, Q Diamonds, 5 Diamonds, 3 Diamonds, J Clubs, 4 Hearts, A Spades, 8 Hearts, 2 Diamonds, 8 Diamonds, 2 Spades, Q Spades, 10 Clubs, 10 Diamonds, 4 Clubs, 3 Hearts, K Spades, Q Hearts, 2 Clubs, 2 Clubs, 9 Spades, J Diamonds, 8 Hearts, 4 Diamonds, A Hearts, A Diamonds, 9 Diamonds, K Clubs, 8 Spades]
+
+
+Remain:74 cards
+
+	[5 Clubs, 4 Diamonds, 2 Hearts, 6 Diamonds, 7 Diamonds, 9 Hearts, 9 Hearts, 10 Spades, 10 Clubs, 3 Clubs, 4 Spades, J Spades, 9 Spades, K Clubs, 3 Clubs, 9 Clubs, 7 Spades, 7 Hearts, 10 Hearts, 6 Spades, 8 Clubs, Q Hearts, 8 Clubs, 3 Spades, A Clubs, A Spades, J Hearts, Q Diamonds, 3 Diamonds, 2 Spades, A Hearts, J Diamonds, Q Clubs, 5 Diamonds, J Hearts, 5 Hearts, 3 Hearts, J Spades, 6 Hearts, Q Clubs, 7 Spades, Q Spades, 5 Clubs, 2 Diamonds, 3 Spades, 2 Hearts, 10 Diamonds, 8 Diamonds, 5 Hearts, A Clubs, 7 Diamonds, 4 Spades, 8 Spades, 5 Spades, 9 Clubs, 10 Hearts, 9 Diamonds, 6 Spades, K Spades, 7 Clubs, 7 Hearts, 10 Spades, J Clubs, K Diamonds, 6 Clubs, 4 Hearts, 6 Diamonds, 6 Clubs, K Hearts, 7 Clubs, 6 Hearts, K Diamonds, A Diamonds, 5 Spades]
+
+==============================================
+
+After shuffle:74 cards
+
+	[7 Hearts, 5 Hearts, 5 Spades, 7 Hearts, 6 Diamonds, 6 Spades, 9 Diamonds, 8 Clubs, 6 Clubs, 4 Hearts, 10 Hearts, A Clubs, 10 Spades, 6 Hearts, 3 Clubs, 2 Hearts, 7 Spades, J Hearts, 10 Hearts, J Spades, 5 Clubs, 4 Diamonds, 6 Clubs, 6 Hearts, K Hearts, A Diamonds, J Diamonds, J Spades, 5 Spades, 7 Clubs, 2 Diamonds, 5 Hearts, 2 Hearts, 9 Clubs, 3 Spades, Q Hearts, 9 Hearts, Q Spades, K Clubs, 6 Spades, 9 Spades, 6 Diamonds, J Clubs, 9 Clubs, A Clubs, Q Clubs, K Spades, 5 Diamonds, 4 Spades, 7 Diamonds, K Diamonds, 10 Clubs, 8 Spades, 2 Spades, 8 Diamonds, 3 Clubs, 10 Spades, A Spades, 10 Diamonds, Q Clubs, K Diamonds, 8 Clubs, 7 Spades, 7 Diamonds, 3 Diamonds, A Hearts, 4 Spades, 3 Hearts, 7 Clubs, 3 Spades, Q Diamonds, 9 Hearts, J Hearts, 5 Clubs]
+
+
+Hand 1:30 cards
+
+	[7 Clubs, 5 Spades, J Spades, J Diamonds, A Diamonds, K Hearts, 6 Hearts, 6 Clubs, 4 Diamonds, 5 Clubs, J Spades, 10 Hearts, J Hearts, 7 Spades, 2 Hearts, 3 Clubs, 6 Hearts, 10 Spades, A Clubs, 10 Hearts, 4 Hearts, 6 Clubs, 8 Clubs, 9 Diamonds, 6 Spades, 6 Diamonds, 7 Hearts, 5 Spades, 5 Hearts, 7 Hearts]
+
+
+Remain:44 cards
+
+	[2 Diamonds, 5 Hearts, 2 Hearts, 9 Clubs, 3 Spades, Q Hearts, 9 Hearts, Q Spades, K Clubs, 6 Spades, 9 Spades, 6 Diamonds, J Clubs, 9 Clubs, A Clubs, Q Clubs, K Spades, 5 Diamonds, 4 Spades, 7 Diamonds, K Diamonds, 10 Clubs, 8 Spades, 2 Spades, 8 Diamonds, 3 Clubs, 10 Spades, A Spades, 10 Diamonds, Q Clubs, K Diamonds, 8 Clubs, 7 Spades, 7 Diamonds, 3 Diamonds, A Hearts, 4 Spades, 3 Hearts, 7 Clubs, 3 Spades, Q Diamonds, 9 Hearts, J Hearts, 5 Clubs]
+
+==============================================
+
+After shuffle:44 cards
+
+	[2 Hearts, Q Clubs, A Clubs, 9 Hearts, K Diamonds, 6 Diamonds, 5 Diamonds, 5 Clubs, 5 Hearts, 7 Spades, 7 Diamonds, 3 Diamonds, 10 Spades, K Spades, K Clubs, 9 Clubs, Q Clubs, 2 Spades, 8 Clubs, 3 Hearts, A Hearts, A Spades, 2 Diamonds, 7 Diamonds, Q Hearts, 3 Spades, Q Diamonds, K Diamonds, 10 Diamonds, 3 Clubs, 9 Spades, 3 Spades, J Hearts, 9 Hearts, 9 Clubs, 4 Spades, 10 Clubs, Q Spades, 6 Spades, 7 Clubs, J Clubs, 8 Spades, 4 Spades, 8 Diamonds]
+
+
+Hand 2:30 cards
+
+	[3 Clubs, 10 Diamonds, K Diamonds, Q Diamonds, 3 Spades, Q Hearts, 7 Diamonds, 2 Diamonds, A Spades, A Hearts, 3 Hearts, 8 Clubs, 2 Spades, Q Clubs, 9 Clubs, K Clubs, K Spades, 10 Spades, 3 Diamonds, 7 Diamonds, 7 Spades, 5 Hearts, 5 Clubs, 5 Diamonds, 6 Diamonds, K Diamonds, 9 Hearts, A Clubs, Q Clubs, 2 Hearts]
+
+
+Remain:14 cards
+
+	[9 Spades, 3 Spades, J Hearts, 9 Hearts, 9 Clubs, 4 Spades, 10 Clubs, Q Spades, 6 Spades, 7 Clubs, J Clubs, 8 Spades, 4 Spades, 8 Diamonds]
+
+==============================================
+
+After shuffle:14 cards
+
+	[8 Diamonds, Q Spades, J Hearts, 8 Spades, 4 Spades, 9 Spades, J Clubs, 3 Spades, 9 Clubs, 10 Clubs, 4 Spades, 7 Clubs, 6 Spades, 9 Hearts]
+
+
+Hand 3:30 cards
+Catch Block:PlayingCardException:Msg: Not enough cards to deal
+
+	[]
+
+
+Remain:14 cards
+
+	[8 Diamonds, Q Spades, J Hearts, 8 Spades, 4 Spades, 9 Spades, J Clubs, 3 Spades, 9 Clubs, 10 Clubs, 4 Spades, 7 Clubs, 6 Spades, 9 Hearts]
+
+==============================================
+
+
+Process finished with exit code 0

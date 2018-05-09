@@ -1,0 +1,32 @@
+[A Spades, 10 Spades, Q Spades, J Spades, K Spades]
+Royal Flush!
+-----------------------------------
+[9 Spades, 10 Spades, Q Spades, J Spades, K Spades]
+Straight Flush!
+-----------------------------------
+[9 Spades, 10 Spades, Q Spades, J Spades, 8 Diamonds]
+Straight!
+-----------------------------------
+[9 Spades, 10 Spades, Q Spades, J Spades, 5 Spades]
+Flush!
+-----------------------------------
+[8 Spades, 8 Clubs, Q Spades, 8 Diamonds, 8 Hearts]
+Four of a Kind!
+-----------------------------------
+[8 Spades, 8 Clubs, Q Spades, 8 Diamonds, J Spades]
+Three of a Kind!
+-----------------------------------
+[8 Spades, 8 Clubs, J Diamonds, 8 Diamonds, J Spades]
+Full House!
+-----------------------------------
+[8 Spades, 9 Diamonds, J Diamonds, 8 Diamonds, J Spades]
+Two Pair!
+-----------------------------------
+[3 Diamonds, 9 Diamonds, J Diamonds, 8 Diamonds, J Spades]
+Royal Pair!
+-----------------------------------
+[3 Diamonds, 9 Diamonds, 3 Spades, 8 Diamonds, J Spades]
+Sorry, you lost !
+-----------------------------------
+
+Process finished with exit code 0
