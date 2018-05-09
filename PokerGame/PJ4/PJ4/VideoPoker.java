@@ -428,78 +428,38 @@ public class VideoPoker {
         }
     }
 
-    // Creating the Hand
-//        while (playing) {
-//            System.out.println("Balance: " + playerBalance);
-//            placeBet();
-//            oneDeck.shuffle();
-//            try {
-//                playerHand = new ArrayList<Card>(oneDeck.deal(5));
-//            } catch (PlayingCardException exc) {
-//                exc.printStackTrace();
-//            }
-//            System.out.println("Hand: " + playerHand);
-//            playerHand = discard();
-//            System.out.println("Hand: " + playerHand);
-//            checkHands(); // CheckDeck
-//            payUp(result);
-//            playerHand.clear();
-//            System.out.println("\nYour balance: $" + playerBalance);
-//            // Options to play more
-//            if ((playerBalance > 0) && (tryAgain())) {
-//                askIfShowPayoutTable();
-//            } else {
-//                System.out.println("Your balance is: $" + getBalance());
-//                System.out.println("You suck! Bye!");
-//                playing = false;
-//            }
-//        }
-//    }
-//            String[] StringArray = temp.split(" ");
-//            System.out.println("Hand:" + playerHand);
-//            int[] arr = new int[StringArray.length];
-//            for (int i = 0; i < StringArray.length; i++) {
-//                String numString = StringArray[i];
-//                arr[i] = Integer.parseInt(numString);
-//            }
-//            boolean position[] = new boolean[numberOfCards];
-//            Arrays.fill(position, false);
-//            for (int i = 0; i < arr.length; i++) {
-//                int k = arr[i];
-//                position[k - 1] = true;
-//            }
 
     // Adjusting the Balance
-//    private void payUp(int payUp) {
-//        if (payUp == 9) {
-//            playerBalance = playerBalance - playerBet; // deduct each game
-//        } else if (payUp != 9) {
-//            playerBalance = playerBalance + (playerBet * multipliers[payUp]); // earn your winnings if you win
-//        }
-//    }
-//
-//    private int getBalance() {
-//        return this.playerBalance;
-//    }
-//
-//    private int getBet() {
-//        return playerBet;
-//    }
+    private void payUp(int payUp) {
+        if (payUp == 9) {
+            playerBalance = playerBalance - playerBet; // deduct each game
+        } else {
+            playerBalance = playerBalance + (playerBet * multipliers[payUp]); // earn your winnings if you win
+        }
+    }
+
+    private int getBalance() {
+        return this.playerBalance;
+    }
+
+    private int getBet() {
+        return playerBet;
+    }
 
     // Make the bet
-//    private void placeBet() {
-//        Scanner in = new Scanner(System.in);
-//        boolean hasFunds = true;
-//        do {
-//            System.out.print("Enter bet: ");
-//            playerBet = in.nextInt();
-//            if (playerBet > playerBalance) {
-//                hasFunds = false;
-//                System.out.println("Not enough funds. Enter a smaller amount.");
-//            } else
-//                hasFunds = true;
-//        } while (!hasFunds);
-//    }
+    private void placeBet() {
+        Scanner in = new Scanner(System.in);
+        boolean hasFunds;
+        do {
+            System.out.print("Enter bet: ");
+            playerBet = in.nextInt();
+            if (playerBet > playerBalance) {
+                hasFunds = false;
+                System.out.println("Not enough funds. Enter a smaller amount.");
+            } else
+                hasFunds = true;
+        } while (!hasFunds);
+    }
 
     //Ask if play again
     public static boolean tryAgain() {
@@ -636,5 +596,6 @@ public class VideoPoker {
     public static void main(String args[]) {
         VideoPoker pokergame = new VideoPoker();
         pokergame.testCheckHands();
+        pokergame.play(); /* execute the actual game */
     }
 }
